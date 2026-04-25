@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © - Liquidlab Agency - All rights reserved.
+ * See LICENSE.txt for license details.
+ */
+-->
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
+    <code>ro_RO</code>
+    <vendor>liquidlab</vendor>
+    <package>hyva_checkout_ro_ro</package>
+    <sort_order>100</sort_order>
+</language>

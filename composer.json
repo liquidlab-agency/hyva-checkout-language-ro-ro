@@ -1,0 +1,18 @@
+{
+    "name": "liquidlab-agency/hyva-checkout-language-ro-ro",
+    "description": "Romanian language pack for Hyva Checkout",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "require": {
+        "magento/framework": "*",
+        "hyva-themes/magento2-hyva-checkout": "*"
+    },
+    "type": "magento2-language",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    }
+}
